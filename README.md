@@ -1,2 +1,2 @@
 # CodeRunner
-CodeRunner repo containing assets.
+CodeRunner repository containing assets.
