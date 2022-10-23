@@ -24,6 +24,6 @@ Answer Key documents contain the correct answers to the questions.
 
 Mental Rotation: Drawn by Daniel Gildea, Kayles Holmes-Albert, Rawiri Mahue. Edited by Ethan Lin.
 
-Spatial or Visospatial Perception: Drawn by Daniel Gildea, Kayles Holmes-Albert, Rawiri Mahue. Edited by Ethan Lin.
+Spatial or Visuospatial Perception: Drawn by Daniel Gildea, Kayles Holmes-Albert, Rawiri Mahue. Edited by Ethan Lin.
 
 Spatial Visualization: Source "https://iqtestprep.com/spatial-awareness-test/" Edited by Ethan Lin.
