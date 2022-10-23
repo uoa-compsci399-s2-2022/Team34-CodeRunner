@@ -26,4 +26,9 @@ Mental Rotation: Drawn by Daniel Gildea, Kayles Holmes-Albert, Rawiri Mahue. Edi
 
 Spatial or Visuospatial Perception: Drawn by Daniel Gildea, Kayles Holmes-Albert, Rawiri Mahue. Edited by Ethan Lin.
 
-Spatial Visualization: Source "https://iqtestprep.com/spatial-awareness-test/" Edited by Ethan Lin.
+Spatial Visualization: Edited by Ethan Lin.
+
+Future Plan: Since CodeRunner's design is by UoA's development team, Team34 has no ability to influence its future releases. However since the existing CodeRunner platform can easily accomodate more questions, if more are created they can be added into the database.
+
+Acknowledgements:
+https://iqtestprep.com/spatial-awareness-test/ The website does not hold direct copyright for the questions. Some questions from the website were edited and used in the Spatial or Visuospatial Perception section.
